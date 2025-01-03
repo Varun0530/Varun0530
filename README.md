@@ -26,7 +26,7 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **OpenCv| Python | Selenium | NLP | PowerBI | Problem Solving**
+- 🔭 I’m currently working on: **OpenCv | Python | Selenium | NLP | PowerBI | Problem Solving**
 
 - 🌱 I’m currently learning: GenAI| SQL | C++ | Docker | AWS
 
